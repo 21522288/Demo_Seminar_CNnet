@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\congnghenet\\DemoPrototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F612165-AFFF-44F5-AD99-784483D23835}|DemoPrototype\\DemoPrototype.csproj|d:\\congnghenet\\demoprototype\\demoprototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F612165-AFFF-44F5-AD99-784483D23835}|DemoPrototype\\DemoPrototype.csproj|solutionrelative:demoprototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F612165-AFFF-44F5-AD99-784483D23835}|DemoPrototype\\DemoPrototype.csproj|d:\\congnghenet\\demoprototype\\demoprototype\\iprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F612165-AFFF-44F5-AD99-784483D23835}|DemoPrototype\\DemoPrototype.csproj|solutionrelative:demoprototype\\iprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F612165-AFFF-44F5-AD99-784483D23835}|DemoPrototype\\DemoPrototype.csproj|d:\\congnghenet\\demoprototype\\demoprototype\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F612165-AFFF-44F5-AD99-784483D23835}|DemoPrototype\\DemoPrototype.csproj|solutionrelative:demoprototype\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F612165-AFFF-44F5-AD99-784483D23835}|DemoPrototype\\DemoPrototype.csproj|d:\\congnghenet\\demoprototype\\demoprototype\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F612165-AFFF-44F5-AD99-784483D23835}|DemoPrototype\\DemoPrototype.csproj|solutionrelative:demoprototype\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F612165-AFFF-44F5-AD99-784483D23835}|DemoPrototype\\DemoPrototype.csproj|d:\\congnghenet\\demoprototype\\demoprototype\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F612165-AFFF-44F5-AD99-784483D23835}|DemoPrototype\\DemoPrototype.csproj|solutionrelative:demoprototype\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\congnghenet\\DemoPrototype\\DemoPrototype\\Rectangle.cs",
+              "RelativeDocumentMoniker": "DemoPrototype\\Rectangle.cs",
+              "ToolTip": "D:\\congnghenet\\DemoPrototype\\DemoPrototype\\Rectangle.cs",
+              "RelativeToolTip": "DemoPrototype\\Rectangle.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:10:21.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\congnghenet\\DemoPrototype\\DemoPrototype\\Circle.cs",
+              "RelativeDocumentMoniker": "DemoPrototype\\Circle.cs",
+              "ToolTip": "D:\\congnghenet\\DemoPrototype\\DemoPrototype\\Circle.cs",
+              "RelativeToolTip": "DemoPrototype\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:10:21.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\congnghenet\\DemoPrototype\\DemoPrototype\\Shape.cs",
+              "RelativeDocumentMoniker": "DemoPrototype\\Shape.cs",
+              "ToolTip": "D:\\congnghenet\\DemoPrototype\\DemoPrototype\\Shape.cs",
+              "RelativeToolTip": "DemoPrototype\\Shape.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:10:21.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPrototype.cs",
+              "DocumentMoniker": "D:\\congnghenet\\DemoPrototype\\DemoPrototype\\IPrototype.cs",
+              "RelativeDocumentMoniker": "DemoPrototype\\IPrototype.cs",
+              "ToolTip": "D:\\congnghenet\\DemoPrototype\\DemoPrototype\\IPrototype.cs",
+              "RelativeToolTip": "DemoPrototype\\IPrototype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:10:21.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\congnghenet\\DemoPrototype\\DemoPrototype\\Program.cs",
+              "RelativeDocumentMoniker": "DemoPrototype\\Program.cs",
+              "ToolTip": "D:\\congnghenet\\DemoPrototype\\DemoPrototype\\Program.cs",
+              "RelativeToolTip": "DemoPrototype\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:10:21.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
